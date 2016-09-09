@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tango_out_of_date_exception">"Tango service outdated!"</string>
+    <string name="failed_measurement">Ошибка нахождения точки</string>
+    <string name="failed_permissions">Permissions required!</string>
+    <string name="measurement">Расстояние:</string>
+    <string name="meters">метров</string>
+    <string name="clear">Очистить</string>
+    <string name="place">Выбрать</string>
+
+</resources>
